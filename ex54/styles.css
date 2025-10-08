@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#resultado-container {
+    min-height: 80px; 
+}
+
+.par {
+    color: var(--bs-success); 
+}
+
+.impar {
+    color: var(--bs-danger); 
+}
